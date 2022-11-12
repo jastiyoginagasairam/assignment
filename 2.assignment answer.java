@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class abcd  {
+public class 1234  {
 
     public static void main(String args[])
     {
